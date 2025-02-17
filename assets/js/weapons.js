@@ -800,7 +800,7 @@
     },
     {
         label: "Winfield M1873C",
-        value: "winfieldc",
+        value: "winfieldC",
         cost: "41$",
         ammunition: "Compact",
         unlock: "Rank 1",
@@ -941,7 +941,7 @@
     },
     {
         label: "Dolch Precision",
-        value: "dolchp",
+        value: "dolchP",
         cost: "790$",
         ammunition: "Special Dolch",
         unlock: "Rank 68 +xp",
@@ -1321,7 +1321,7 @@
     },
     {
         label: "Caldwell Conversion Chain Pistol",
-        value: "caldwellconversionc",
+        value: "caldwellconversionC",
         cost: "84$",
         ammunition: "CompactPistol",
         unlock: "Rank 22 +xp",
